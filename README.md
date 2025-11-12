@@ -87,6 +87,9 @@ https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerab
 - [Troubleshooting the CodeQL workflow](https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/troubleshooting-the-codeql-workflow)
 - [Code scanning API](https://docs.github.com/en/free-pro-team@latest/rest/reference/code-scanning)
 - [Secret scanning API](https://docs.github.com/en/rest/reference/secret-scanning)
+- 
+
+Demo: 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
 - [GraphQL API](https://docs.github.com/en/free-pro-team@latest/graphql)
   - [RepositoryVulnerabilityAlert](https://docs.github.com/en/free-pro-team@latest/graphql/reference/objects#repositoryvulnerabilityalert)
 - [REST API](https://docs.github.com/en/free-pro-team@latest/rest)
